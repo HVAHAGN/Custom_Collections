@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumeratorIEnumerableYield
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICollectionIList_01", "ICollectionIList_01\ICollectionIList_01.csproj", "{F6A1CEC1-5525-4E96-8E25-13D14E5B9DBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICollectionIList_02", "ICollectionIList_02\ICollectionIList_02.csproj", "{BF5E5765-3CFC-4DE8-83EB-D3B215657384}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F6A1CEC1-5525-4E96-8E25-13D14E5B9DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6A1CEC1-5525-4E96-8E25-13D14E5B9DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6A1CEC1-5525-4E96-8E25-13D14E5B9DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5E5765-3CFC-4DE8-83EB-D3B215657384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5E5765-3CFC-4DE8-83EB-D3B215657384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5E5765-3CFC-4DE8-83EB-D3B215657384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5E5765-3CFC-4DE8-83EB-D3B215657384}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
